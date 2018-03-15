@@ -1,0 +1,17 @@
+﻿Build started 2017-02-08 17:54:38.
+     1>Project "C:\Users\Mirek\Desktop\Nowy folder\grafika\szescian\szescian\szescian.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\szescian.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         szescian.vcxproj -> C:\Users\Mirek\Desktop\Nowy folder\grafika\szescian\szescian\.\Debug\szescian.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\szescian.unsuccessfulbuild".
+         Touching ".\Debug\szescian.lastbuildstate".
+     1>Done Building Project "C:\Users\Mirek\Desktop\Nowy folder\grafika\szescian\szescian\szescian.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
